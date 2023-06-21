@@ -1,4 +1,19 @@
-body {
-    backgroungd-color:#015d77;
-    color: rgb(2, 2, 95);
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "poppins", sans-serif;
+}
+
+.cabeçalho {
+    background-color:  #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+    
     
